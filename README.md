@@ -55,7 +55,7 @@ Las máquinas se conectan mediante una **red interna aislada (Host-Only Network)
 - Gestión de recursos de hardware en entornos multi-VM, ajustando RAM y prioridades según el ejercicio a realizar.
 ## Nota sobre el proceso de aprendizaje
  
-Este proyecto fue desarrollado con la asistencia de **Claude (Anthropic)** como guía técnica durante todo el proceso: desde la planificación de la arquitectura del laboratorio hasta la resolución de errores puntuales de configuración (redes, permisos, instalación del SIEM). El objetivo de usar esta herramienta fue acelerar el aprendizaje práctico y entender el "por qué" de cada paso, no solo copiar comandos — cada decisión de configuración fue explicada y comprendida antes de ejecutarla. Todo el trabajo de ejecución, troubleshooting en tiempo real y toma de decisiones sobre el hardware disponible fue realizado por mí.
+Este proyecto fue desarrollado con la asistencia de **Claude (Anthropic)** como guía técnica durante todo el proceso: desde la planificación de la arquitectura del laboratorio hasta la resolución de errores puntuales de configuración (redes, permisos, instalación del SIEM). El objetivo de usar esta herramienta fue acelerar el aprendizaje práctico y entender el "por qué" de cada paso, no solo copiar comandos, cada decisión de configuración fue explicada y comprendida antes de ejecutarla. Todo el trabajo de ejecución, troubleshooting en tiempo real y toma de decisiones sobre el hardware disponible fue realizado por mí.
  
 ## Próximos pasos
  
