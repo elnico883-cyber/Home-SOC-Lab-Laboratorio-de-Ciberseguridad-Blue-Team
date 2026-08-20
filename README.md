@@ -19,7 +19,7 @@ El lab está virtualizado en **VirtualBox** sobre un host Windows, con las sigui
 | Rol | Sistema Operativo | Función | IP |
 |---|---|---|---|
 | SIEM | Ubuntu Server 24.04 LTS | Wazuh Manager + Indexer + Dashboard | 192.168.56.102 |
-| Víctima / Endpoint | Windows 11 LTSC | Wazuh Agent instalado — genera logs y eventos monitoreados | 192.168.56.103 |
+| Víctima / Endpoint | Windows 11 LTSC | Wazuh Agent instalado, genera logs y eventos monitoreados | 192.168.56.103 |
 | Atacante | Kali Linux (entorno gráfico Xfce completo) | Generación de tráfico malicioso / pentesting | 192.168.56.104 |
  
 Las tres máquinas se conectan mediante una **red interna aislada (Host-Only Network, 192.168.56.0/24)** para no exponer el laboratorio a la red doméstica, sumado a un adaptador NAT independiente en cada VM para actualizaciones y descarga de paquetes.
